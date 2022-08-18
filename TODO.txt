@@ -1,0 +1,3 @@
+USE PUB/SUB:
+    https://blog.devgenius.io/how-to-use-redis-pub-sub-in-your-python-application-b6d5e11fc8de
+
