@@ -9,3 +9,6 @@ Emulate front end car moving:
 	supply coordinates from backend
 	move car along coordinate
 
+Flask Redis Queue
+	https://realpython.com/flask-by-example-implementing-a-redis-task-queue/
+
