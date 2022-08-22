@@ -11,4 +11,6 @@ Emulate front end car moving:
 
 Flask Redis Queue
 	https://realpython.com/flask-by-example-implementing-a-redis-task-queue/
+	https://linuxhint.com/redis-queue/
+	https://python-rq.org/
 
